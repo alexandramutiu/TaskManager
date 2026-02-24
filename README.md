@@ -32,3 +32,6 @@ A lightweight **Command-Line Interface (CLI) Task Manager** written in C++ using
 2. **Compile the program**
 3. **Run the program**
 4. **Use the menu to add, view, or complete tasks.**
+
+---
+[[Video] "C:\Users\alexa\Videos\Screen Recordings\Screen Recording 2026-02-24 182727.mp4"](https://github.com/user-attachments/assets/4c915bbb-7821-441d-a044-b2d2b77911f4)
